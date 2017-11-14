@@ -71,6 +71,7 @@ Write the code to complete this in `euler_1/sum_of_natural_numbers.py`
 Here are some general questions you might get asked about Python. Spend some time researching and answering these questions.
 
 ##### How does Python compare to other langauges you've used?
+  -it's a lot more straight forward. without knowing too much, anyone could have an idea of what a function would do.
 
 ##### Is Python a high or low level language?
 
@@ -83,4 +84,3 @@ Here are some general questions you might get asked about Python. Spend some tim
 ##### Does it have strong support for functional programming?
 
 ##### What's the deal with Python 2 vs Python 3?
-
